@@ -96,4 +96,4 @@ java -jar lib/junit-platform-console-standalone-1.5.2.jar -class-path build --se
 ```
 java -cp build miPrincipal.Principal
 ```
-Los comandos anteriores están considerados para un ambiente Linux. [Referencia.](https://www.baeldung.com/junit-run-from-command-line)
+Los comandos anteriores están considerados para un ambiente Linux. [Referencia.](https://www.baeldung.com/junit-run-from-command-line) 
